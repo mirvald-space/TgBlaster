@@ -1,0 +1,11 @@
+APScheduler==3.11.0
+pyaes==1.6.1
+pyasn1==0.6.1
+python-decouple==3.8
+rsa==4.9
+Telethon==1.39.0
+tzdata==2025.2
+tzlocal
+cryptg
+pillow
+loguru
